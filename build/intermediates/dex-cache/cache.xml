@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Test\test\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5bfedf8479c66af09b93e55fc721ce3aefcdf19f">
+        <dex dex="F:\Test\test\build\intermediates\pre-dexed\debug\instant-run_b06bd834da5a0bfdcd3ff2e82e547114de64cc22.jar" />
+    </item>
+    <item
+        jar="F:\androidsto\sdk\extras\android\m2repository\com\android\support\support-v13\19.1.0\support-v13-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="6b852a232f642c75a7fdfc7212b841b8c8f8959c">
+        <dex dex="F:\Test\test\build\intermediates\pre-dexed\debug\support-v13-19.1.0_c74e913f3d29813a7a9ac32e59f80ed952989a64.jar" />
+    </item>
+    <item
+        jar="F:\androidsto\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\Test\test\build\intermediates\pre-dexed\debug\support-v4-19.1.0_bb274a970075678cefe6af4ddb16aafc3cc48e0f.jar" />
+    </item>
+    <item
+        jar="F:\Test\test\build\intermediates\exploded-aar\Test\andBase\unspecified\jars\libs\ksoap2-android-assembly-3.3.0-jar-with-dependencies.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="b83bb1836d8032664fd0e39e08b5d66286ce0086">
+        <dex dex="F:\Test\test\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-3.3.0-jar-with-dependencies_3a182ed90b9bc7fb0b8a2e0aeec079608fe4a54a.jar" />
+    </item>
+    <item
+        jar="F:\Test\test\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="cac15aece7c50269fd4e0aa1b054790005c87a26">
+        <dex dex="F:\Test\test\build\intermediates\pre-dexed\debug\classes_2124f49ca34233f95a1b29ad22836a8839556ffd.jar" />
+    </item>
+
+</items>
