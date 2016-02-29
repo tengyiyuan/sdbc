@@ -14,5 +14,6 @@ public class MainActivity extends AbActivity {
         mAbTitleBar.setTitleText("测试标题");
         mAbTitleBar.setTitleBarGravity(Gravity.CENTER,Gravity.CENTER);
         mAbTitleBar.setTitleBarBackgroundColor(Color.BLACK);
+        System.out.println("测试");
     }
 }
