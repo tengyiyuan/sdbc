@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="F:\Test\test\build\intermediates\exploded-aar\Test\andBase\unspecified\assets"/></dataSet><dataSet config="main"><source path="F:\Test\test\src\main\assets"/></dataSet><dataSet config="debug"><source path="F:\Test\test\src\debug\assets"/></dataSet></merger>
